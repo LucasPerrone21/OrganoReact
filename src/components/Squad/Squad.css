@@ -1,0 +1,19 @@
+.squad {
+	text-align: center;
+	padding: 32px;
+}
+
+.squad h3 {
+	font-size: 32px;
+	border-bottom: 4px solid;
+	display: inline-block;
+	padding-bottom: 8px;
+}
+
+.squad .workers {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 16px;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
